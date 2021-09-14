@@ -1,4 +1,4 @@
-<header class="page-header" role="banner">
+<header role="banner">
  <img src="https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109121356459.jpg" width="100px">
 </header>
 <center>
