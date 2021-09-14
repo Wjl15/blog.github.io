@@ -12,12 +12,12 @@
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <img src="https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109121356459.jpg" width="18px">
              <a href="https://github.com/Wang-qing-yuan">我的Github</a>
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <img src="https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109121356459.jpg" width="18px">
              <a href="https://github.com/Wang-qing-yuan/blog.github.io/">我的博客</a>
          </span>
      </div>
@@ -37,9 +37,8 @@
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **暂无，想成为前端工程师**
 
-   负责 前端
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 项目经历
 
