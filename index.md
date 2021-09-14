@@ -1,3 +1,6 @@
+<skip-to-content>
+ <img src="https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109121356459.jpg" width="100px">
+</skip-to-content>
 <center>
      <h1>软件2136-wqy</h1>
      <div>
